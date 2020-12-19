@@ -37,7 +37,7 @@ We of course took inspiration from our love of the beautiful game and wanting a 
 
 Follow these steps to view the application!
 
-1. Open link in (Github.) [https://github.com/adrianalbr/football-or-futbol]
+1. Open link in (Github.)[https://github.com/adrianalbr/football-or-futbol]
 2. Clone with SSH Key
 3. Run `git clone` command in Terminal with the pasted link
 4. Run `code .` command to open in VS Code.
@@ -71,10 +71,11 @@ WHEN you have made your contributions, run git push and I will review for a merg
 ## Questions
 
 If you have any questions contact us through email:
-    (Daniel Martinez) - [xdanielmtz@gmail.com]
-    (Shelby Cignetti) - [shelbycignetti@gmail.com]
-    (Arpita Sahaa) - [arpita.sahaa@gmail.com]
-    (Adriana Bonilla-Ramirez) - [adrianalbr12@gmail.com]
+    (Daniel Martinez)[xdanielmtz@gmail.com]
+    (Shelby Cignetti)[shelbycignetti@gmail.com]
+    (Arpita Sahaa)[arpita.sahaa@gmail.com]
+    (Adriana Bonilla-Ramirez)[adrianalbr12@gmail.com]
+
 Additionally, you can visit the project repo page for additional information: https://xdanielmtz.github.io/responsive-portfolio/index.html
 (Our Presentation) [https://docs.google.com/presentation/d/1e-Tn37O0iDVCBre28mQBgSArVxMNkwn5rDT81fks-CY/edit#slide=id.ga93273cbd8_0_9]
 
