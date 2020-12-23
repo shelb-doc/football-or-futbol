@@ -37,7 +37,7 @@ We of course took inspiration from our love of the beautiful game and wanting a 
 
 Follow these steps to view the application!
 
-1. Open link in (Github.)[https://github.com/adrianalbr/football-or-futbol]
+1. Open link in (Github.) [https://github.com/adrianalbr/football-or-futbol]
 2. Clone with SSH Key
 3. Run `git clone` command in Terminal with the pasted link
 4. Run `code .` command to open in VS Code.
@@ -59,7 +59,7 @@ This application was developed using these wonderful technologies:
     - MySQL database
     - Sequelize
     - Heroku
-    - new technology??
+    - Eslint
 
 ## Contribution
 
@@ -71,30 +71,30 @@ WHEN you have made your contributions, run git push and I will review for a merg
 ## Questions
 
 If you have any questions contact us through email:
-    (Daniel Martinez)[xdanielmtz@gmail.com]
-    (Shelby Cignetti)[shelbycignetti@gmail.com]
-    (Arpita Sahaa)[arpita.sahaa@gmail.com]
-    (Adriana Bonilla-Ramirez)[adrianalbr12@gmail.com]
-
-Additionally, you can visit the project repo page for additional information: https://xdanielmtz.github.io/responsive-portfolio/index.html
+    (Daniel Martinez) - [xdanielmtz@gmail.com]
+    (Shelby Cignetti) - [shelbycignetti@gmail.com]
+    (Arpita Sahaa) - [arpita.sahaa@gmail.com]
+    (Adriana Bonilla-Ramirez) - [adrianalbr12@gmail.com]
+Additionally, you can visit the project repo page for additional information: [https://github.com/adrianalbr/football-or-futbol]
 (Our Presentation) [https://docs.google.com/presentation/d/1e-Tn37O0iDVCBre28mQBgSArVxMNkwn5rDT81fks-CY/edit#slide=id.ga93273cbd8_0_9]
 
 
 ## Screenshot
+![Futbol Page](documents/football-futbol-ss.jpg)
 
 
 ## Walk-Through-Video
-
+[https://drive.google.com/file/d/1-RRLd3B21NHkZDXkBkGkTnUuKkntWO8I/view]
 
 ## Deployment
-
+[https://football-or-futbol.herokuapp.com/]
 
 ## Credits
 
-Adriana Bonilla-Ramirez - Back end member, created the models for our project and wrote model validations, created presentation, wrote Readme,App testing throughout the project.
+Adriana Bonilla-Ramirez - Back end member, created the models for our project and wrote model validations, created presentation, wrote Readme, App testing throughout the project.
 [https://github.com/adrianalbr]
 
-Arpita Saha  - Back end member, created controllers, helped with model validations Mastermind behind the CRUD functionality, wrote a a lot of the logic. App testing throughout the project.  
+Arpita Saha  - Back end member, created controllers, helped with model validations, Mastermind behind the CRUD functionality, wrote a a lot of the logic. App testing throughout the project.  
 [https://github.com/arpita-sahakar]
 
 Shelby Cignetti - Worked on all things handlebars. Created the UI for our web application, designed and polished a clean interface, deployed to Heroku, App testing throughout the project.
